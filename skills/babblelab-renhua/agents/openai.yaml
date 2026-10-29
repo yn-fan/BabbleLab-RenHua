@@ -1,0 +1,4 @@
+interface:
+  display_name: "BabbleLab-RenHua · 人话"
+  short_description: "清理中文和英文成稿中的空话与模板表达，保留事实、语气和作者声音"
+  default_prompt: "请用 $babblelab-renhua 编辑这段文字，保留事实和作者立场，直接给我最终稿。"

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-29",
+  "upstreams": [
+    {
+      "id": "lieflat-less-ai-tone",
+      "repository": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+      "revision": "fe13f1a0712cd2c138b6cdc500a77927d5bf04ec",
+      "license": "CC-BY-NC-4.0",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "fae729fd94273517d793e6c4c31b05a66b39b962bf4bb146459020c84c3e7c8f",
+          "usage": "reviewed and adapted; original not bundled"
+        },
+        {
+          "path": "DETECT.md",
+          "sha256": "ca1fb1979c0344d9bb1ec4ecd1ae0719f4c808f473c2a8284ab768c710966d61",
+          "usage": "reviewed and adapted; original not bundled"
+        },
+        {
+          "path": "RESEARCH.md",
+          "sha256": "89d27fda5f5bf6c29820669459285ef696bbe8c025a4fa78ad74ca84029055b4",
+          "usage": "reviewed and adapted; original not bundled"
+        },
+        {
+          "path": "references/semantic-criteria.md",
+          "sha256": "bdb00c7452c407853968e8ecbf7fdc7d7529971cf0656beb552f4c1167b79638",
+          "usage": "reviewed and adapted; original not bundled"
+        },
+        {
+          "path": "scripts/detect.py",
+          "sha256": "0f5c4fede3c11a574c2394f7a8470ef6cb70777ea32eb407bb1c837dd0d9ec6a",
+          "bundled_path": "scripts/vendor/lieflat/detect.py"
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "e4f5e51b1851ab7ab1146d4285b50ca7065a9797bc58c321bb3d793daa0a99f6",
+          "bundled_path": "scripts/vendor/lieflat/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "humanizer",
+      "repository": "https://github.com/blader/humanizer",
+      "revision": "0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "0612f1dfb1672b0ea9b97e139bf1f06cabe98d8b27424fe8ff01e1fb4cc99cad",
+          "usage": "reviewed and adapted; original not bundled"
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96",
+          "bundled_path": "licenses/humanizer-MIT.txt"
+        }
+      ]
+    }
+  ]
+}
